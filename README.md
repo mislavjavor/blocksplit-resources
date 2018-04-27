@@ -15,3 +15,8 @@ http://truffleframework.com/ganache/
 https://github.com/mislavjavor/simplecontract
 
 https://github.com/ethereum/wiki/wiki/JavaScript-API
+
+
+## Links
+https://www.rinkeby.io/#stats
+https://www.ethgasstation.info/
