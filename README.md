@@ -11,3 +11,4 @@ metamask.io
 truffleframework.com
 
 http://truffleframework.com/ganache/
+https://github.com/mislavjavor/simplecontract
