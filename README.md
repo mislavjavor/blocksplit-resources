@@ -6,7 +6,7 @@
 https://github.com/blocksplit/Building-a-DAO
 
 ## Tooling
-metamask.io
+http://metamask.io
 
 http://truffleframework.com
 
