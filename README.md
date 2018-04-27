@@ -21,3 +21,7 @@ https://github.com/ethereum/wiki/wiki/JavaScript-API
 https://www.rinkeby.io/#stats
 
 https://www.ethgasstation.info/
+
+https://makerdao.com/
+
+https://github.com/DigixGlobal/digixdao-contracts
